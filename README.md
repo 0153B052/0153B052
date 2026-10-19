@@ -8,7 +8,8 @@
 | 家鄉 / Hometown | 澳門 |
 | Email | yoyonoob999@gmail.com |
 | GitHub | https://github.com/0153B052 |
-### 個人照片<img src="image/profile.jpg" alt="個人照片" width="300"/>
+### 個人照片
+<img src="image/profile.jpg" alt="個人照片" width="300"/>
 
 ## 2. 關於我 (About Me)
 
